@@ -14,7 +14,7 @@
 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kakushavenecia@gmail.com)](mailto:kakushavenecia@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/KakushaVenecia/)](https://www.linkedin.com/in/https://www.linkedin.com/in/kakushavenecia/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/KakushaVenecia](https://www.linkedin.com/in/kakushavenecia/)/)](https://www.linkedin.com/in/https://www.linkedin.com/in/kakushavenecia/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/_vee_k)](https://twitter.com/_vee_k)
 
 <br>
