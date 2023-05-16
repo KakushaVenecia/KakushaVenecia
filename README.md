@@ -6,7 +6,7 @@
 
 - 📧 Check out my portfolio here. Not a link? It will be soon! lol <br>
 
-- 📚 I’m currently learning , Angular, Typescript, Node.js, Azure and Docker<br>
+- 📚 I’m currently learning Angular, Typescript, Node.js, Azure and Docker <br>
 
 - If I am being honest, I do not know what I am doing hahaha but I am alive and ensure that I feel alive through each moment. That counts for something right?  I love singing and currently love being part of a book club and yes we actually read books lol. Anywaaay....
 
