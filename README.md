@@ -18,12 +18,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/_vee_k)](https://twitter.com/_vee_k)
 
 <br>
+
 > A Software Engineer passionate about web development and helping people turn their ideas to websites and app that works.
+
 <br>
+
 ---
-
 ###  💻 My Tech Stack:
-
 <br>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
