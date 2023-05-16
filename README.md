@@ -1,31 +1,30 @@
-### Hi there 👋 I'm Venecia Kakusha 👨‍💻
+### Hi there, I'm Venecia Kakusha 👨‍💻
+
+# 💫 About Me:
 
 - 🌱 I’m currently learning Angular.<br>
 
 - 👯  I’m looking to collaborate on Web development and Open Source Projects. <br>
 
-- 📧 Check out my portfolio here. Not a link? It will be soon! 😄<br>
+- 📧 Check out my portfolio here. Not a link? It will be soon! lol <br>
 
 - 📚 I’m currently learning , Angular, Typescript, Node.js, Azure and Docker<br>
 
-- ⚡ If I am being honest, I do not know what I am doing hahaha but I am alive and ensure that I feel alive through each moment. That counts for something right?  I love singing and currently love being part of a book club and yes we actually read books lol. Anywaaay....
+- If I am being honest, I do not know what I am doing hahaha but I am alive and ensure that I feel alive through each moment. That counts for something right?  I love singing and currently love being part of a book club and yes we actually read books lol. Anywaaay....
 
-### 🌐 Do you want to connect with me? :<br>
+### 🌐 Connect with me here<br>
 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kakushavenecia@gmail.com)](mailto:kakushavenecia@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/KakushaVenecia](https://www.linkedin.com/in/kakushavenecia/)/)](https://www.linkedin.com/in/kakushavenecia/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/_vee_k)](https://twitter.com/_vee_k)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kakushavenecia@gmail.com)](mailto:kakushavenecia@gmail.com)      [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kakushavenecia/)](/https://www.linkedin.com/in/kakushavenecia/) 
+     [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/_vee_k)](https://twitter.com/_vee_k)
 
 <br>
 
-> A Software Engineer passionate about web development and helping people turn their ideas to websites and app that works.
-
+> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat"
 <br>
 
 ---
-###  💻 My Tech Stack:
-<br>
+### 💻 My Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -55,4 +54,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KakushaVenecia&label=Profile%20Views&color=8&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
