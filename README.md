@@ -2,9 +2,7 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning Angular.<br>
-
-- 👯  I’m looking to collaborate on Web development and Open Source Projects. <br>
+- 👯  I’m looking to collaborate on Web development and Open Source Projects or land my first role in a tech team. <br>
 
 - 📧 Check out my portfolio here. Not a link? It will be soon! lol <br>
 
