@@ -18,11 +18,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/_vee_k)](https://twitter.com/_vee_k)
 
 <br>
-
 > A Software Engineer passionate about web development and helping people turn their ideas to websites and app that works.
-
 <br>
-
 ---
 ### 💻 My Tech Stack:
 
@@ -57,6 +54,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KakushaVenecia&label=Profile%20Views&color=8&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-
-
-[![Venecia's GitHub stats](https://github-readme-stats.vercel.app/api?username=venecia)](https://github.com/KakushaVenecia/github-readme-stats) 
