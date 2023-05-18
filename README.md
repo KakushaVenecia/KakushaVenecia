@@ -6,7 +6,7 @@
 
 - 📧 Check out my portfolio here. Not a link? It will be soon! lol <br>
 
-- 📚 I’m currently learning Angular, Typescript, Node.js, Azure and Docker <br>
+- 📚 I’m currently learning AWS, Azure and Docker <br>
 
 
 ### 🌐 Connect with me here<br>
