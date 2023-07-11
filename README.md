@@ -4,7 +4,7 @@
 
 - 👯  I’m looking to collaborate on Web development and Open Source Projects and land my first role in a tech team. <br>
 
-- 📧 Check out my portfolio here. Not a link? It will be soon! lol <br>
+- 📧 Check out my portfolio <a href="https://kakushavenecia.github.io/staticportfolio/" target="_blank">here</a>. <br>
 
 - 📚 I’m currently learning AWS, Azure and Docker <br>
 
