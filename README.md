@@ -2,11 +2,9 @@
 
 # 💫 About Me:
 
-- 👯  I’m looking to collaborate on Web development and Open Source Projects and land my first role in a tech team. <br>
+- 📧 Please check out my portfolio <a href="https://kakushavenecia.github.io/staticportfolio/" target="_blank">here</a>. <br>
 
-- 📧 Check out my portfolio <a href="https://kakushavenecia.github.io/staticportfolio/" target="_blank">here</a>. <br>
-
-- 📚 I’m currently learning AWS, Azure and Docker <br>
+- 📚 I’m currently learning AWS, Azure, and Docker <br>
 
 
 ### 🌐 Connect with me here<br>
