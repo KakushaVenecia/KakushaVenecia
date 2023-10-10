@@ -4,7 +4,7 @@
 
 - 📧 Please check out my portfolio <a href="https://kakushavenecia.github.io/staticportfolio/" target="_blank">here</a>. <br>
 
-- 📚 I’m currently learning AWS, Azure, and Docker <br>
+- 📚 I’m currently a postgraduate Computer Science student at Aston Uni and my aspiration is that this presents new opportunities to learn and ultimately work in meaningful work <br>
 
 
 ### 🌐 Connect with me here<br>
