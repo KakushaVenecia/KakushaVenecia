@@ -3,7 +3,7 @@
 # 💫 About Me:
 
 
-- 📚 I’m just a girl passionate about music, tech, women’s rights, and making a difference. I’m excited to bring these passions together and explore how technology can help create real change and impact as I navigate work and life. I occasionally write my thoughts and share it on a blog somewhere. Please bear with this short introduction of my personhood as I work on a portfolio that represents my versatility<br>
+- 📚 I’m just a girl passionate about music, tech, women’s rights, and making a difference. I’m excited to bring these passions together and explore how technology can help create real change and impact as I navigate work and life. <br>
 
 
 ### 🌐 Connect with me here<br>
